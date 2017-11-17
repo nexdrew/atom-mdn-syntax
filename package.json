@@ -1,0 +1,24 @@
+{
+  "name": "mdn-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme based on MDN code samples",
+  "files": [
+    "index.less",
+    "styles/*.less",
+    "styles/syntax/*.less"
+  ],
+  "keywords": [
+    "syntax",
+    "theme",
+    "mdn",
+    "javascript"
+  ],
+  "author": "nexdrew",
+  "repository": "https://github.com/nexdrew/atom-mdn-syntax",
+  "license": "MIT",
+  "homepage": "https://atom.io/packages/mdn-syntax",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
