@@ -2,11 +2,11 @@
 
 > Atom syntax theme based on MDN code samples
 
-![with light ui theme](screenshot-light.png)
+![with light ui theme](https://raw.githubusercontent.com/nexdrew/atom-mdn-syntax/master/screenshot-light.png)
 
 Even though this is a light syntax theme, I think it also works well with dark UI themes. Here's an example paired with the One Dark UI theme:
 
-![with dark ui theme](screenshot-dark.png)
+![with dark ui theme](https://raw.githubusercontent.com/nexdrew/atom-mdn-syntax/master/screenshot-dark.png)
 
 Created mainly for JavaScript, but supports other languages as well.
 
